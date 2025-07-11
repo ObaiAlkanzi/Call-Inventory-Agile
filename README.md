@@ -4,7 +4,7 @@
 
 ## 💼 About Me
 
-I'm a professional software developer with a focus on building robust, scalable, and maintainable web applications using **.NET Core** and modern backend technologies. With [4 years] of experience, I enjoy developing ERP Systems through clean architecture, APIs, and cloud-native practices.
+I'm a professional software developer with a focus on building robust, scalable, and maintainable web applications using **.NET Core** and modern backend technologies. With **[4 years]** of experience, I enjoy developing ERP Systems through clean architecture, APIs, and cloud-native practices.
 
 ---
 
@@ -20,7 +20,7 @@ I'm a professional software developer with a focus on building robust, scalable,
 
 ## 📂 Featured Projects
 
-### 🔹 [Inventory](https://github.com/your-username/project-name)
+### 🔹 [Inventory][https://github.com/your-username/project-name]
 > **Description**: A RESTful API for managing Inventoy built with ASP.NET Core, EF Core, and Swagger.
 >  
 > 🛠️ C#, ASP.NET Core, EF Core, Devexpress, Oracle.  
@@ -31,7 +31,7 @@ I'm a professional software developer with a focus on building robust, scalable,
 
 ## 📫 Contact Me
 
-- 💼 [LinkedIn][https://www.linkedin.com/in/obai-hussain-910188215/]
+- 💼 LinkedIn: [https://www.linkedin.com/in/obai-hussain-910188215/]
 - 📨 Email: [obaialkanzi@gmail.com]
   
 ---
