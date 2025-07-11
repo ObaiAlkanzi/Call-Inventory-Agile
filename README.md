@@ -20,7 +20,7 @@ I'm a professional software developer with a focus on building robust, scalable,
 
 ## 📂 Featured Projects
 
-### 🔹 [Inventory][https://github.com/your-username/project-name]
+### 🔹 [Inventory][https://github.com/ObaiAlkanzi/Call-Inventory-Agile]
 > **Description**: A RESTful API for managing Inventoy built with ASP.NET Core, EF Core, and Swagger.
 >  
 > 🛠️ C#, ASP.NET Core, EF Core, Devexpress, Oracle.  
