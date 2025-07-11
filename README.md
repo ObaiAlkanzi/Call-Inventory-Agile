@@ -1,7 +1,3 @@
-# Call-Inventory-Agile
-Agile workflow chart for Call management and Inventory modules
-
-
 # 👋 Hi, I'm Obai Hussain
 🎯 Passionate .NET Core Developer | 💻 Backend Engineer | ☁️ Sr. Full Stack Developer 
 
