@@ -21,7 +21,7 @@ I'm a professional software developer with a focus on building robust, scalable,
 
 ## 📂 Featured Projects
 
-### 🔹 [Inventory][https://github.com/ObaiAlkanzi/Call-Inventory-Agile]
+### 🔹  [Inventory Management System](https://github.com/ObaiAlkanzi/Inventory_Management.)*(Private)*
 > **Description**: A full-featured inventory system to manage product tracking, stock movements, and supplier integration.
 > The Project consist of 2 parts as following:
   - **Call Management**: Rasing a call and add the complaint and specify the materials and manpowers, and close the call.
