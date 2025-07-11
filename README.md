@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Obai Hussain
 🎯 Passionate .NET Core Developer | 💻 Backend Engineer | ☁️ Sr. Full Stack Developer 
+📍 Based in Dubai, United Arab Emirates | 🌐 Open to Remote & On-site Roles
 
 
 ## 💼 About Me
@@ -21,7 +22,7 @@ I'm a professional software developer with a focus on building robust, scalable,
 ## 📂 Featured Projects
 
 ### 🔹 [Inventory][https://github.com/ObaiAlkanzi/Call-Inventory-Agile]
-> **Description**: A RESTful API for managing Inventoy built with ASP.NET Core, EF Core, and Swagger.
+> **Description**: A full-featured inventory system to manage product tracking, stock movements, and supplier integration.
 > The Project consist of 2 parts as following:
   - **Call Management**: Rasing a call and add the complaint and specify the materials and manpowers, and close the call.
   - **Stock and Inventory Management**: Send Requisition/s for purchasing the material. **(Requisitions,LPO, GRN, Returns, Stock Transfer, Exess).**
@@ -32,8 +33,21 @@ I'm a professional software developer with a focus on building robust, scalable,
 > Crystal Reports.
 > 🧪 Unit tested with xUnit, CI/CD via GitHub Actions.
 
+
+
+### 🔹 [Leasings Management System](https://github.com/obai-hussain/leasings-management) *(Private)*
+> **Description**: A comprehensive solution for managing property leases, payments, customer records, and notifications. Built with multi-tenant support and role-based access.
+>
+> 🛠️ ASP.NET Core, EF Core, SQL Server, Clean Architecture
+
 ---
 
+### 🔹 [Call Management Platform](https://github.com/obai-hussain/call-management) *(Private)*
+> **Description**: A real-time platform to track service calls, assign agents, and generate reports. Optimized for internal use within a telecom support team.
+>
+> 🛠️ ASP.NET Core, SignalR, EF Core, Azure App Services
+
+---
 
 ## 📫 Contact Me
 
