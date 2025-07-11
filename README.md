@@ -31,7 +31,7 @@ I'm a professional software developer with a focus on building robust, scalable,
 
 ## 📫 Contact Me
 
-- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/obai-hussain-910188215/))
+- 💼 ![LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/obai-hussain-910188215/))
 - 📨 Email: [obaialkanzi@gmail.com]
   
 ---
