@@ -22,14 +22,14 @@ I'm a professional software developer with a focus on building robust, scalable,
 
 ### 🔹 [Inventory][https://github.com/ObaiAlkanzi/Call-Inventory-Agile]
 > **Description**: A RESTful API for managing Inventoy built with ASP.NET Core, EF Core, and Swagger.
-> The Project consist of 3 parts as following:
-  - Call Management: Rasing a call and add the complaint and specify the materials and manpowers, and close the call.
-  - Send Requisition/s for purchasing the material. (LPO, GRN, Returns, Stock Transfer).
-  - Stock and Inventory Management.
+> The Project consist of 2 parts as following:
+  - **Call Management**: Rasing a call and add the complaint and specify the materials and manpowers, and close the call.
+  - **Stock and Inventory Management**: Send Requisition/s for purchasing the material. **(Requisitions,LPO, GRN, Returns, Stock Transfer, Exess).**
 
 > 🛠️ C#, ASP.NET Core, EF Core.
 > DevExpress, Jquery.
 > Oracle, Sql Server.
+> Crystal Reports.
 > 🧪 Unit tested with xUnit, CI/CD via GitHub Actions.
 
 ---
